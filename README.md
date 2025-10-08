@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação, atualmente cursando o 3º período na Universidade Veiga de Almeida. Estou em constante aprendizado, com foco no desenvolvimento full-stack. Gosto de explorar novas ferramentas, linguagens e soluções que me desafiem e ampliem meu conhecimento na programação.</p>
+<p align="left">Sou estudante de Sistemas de Informação, atualmente cursando o 4º período na Universidade Veiga de Almeida. Estou em constante aprendizado, com foco no desenvolvimento full-stack. Gosto de explorar novas ferramentas, linguagens e soluções que me desafiem e ampliem meu conhecimento na programação.</p>
 
 ###
 
