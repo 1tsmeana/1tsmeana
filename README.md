@@ -1,31 +1,99 @@
-<h2 align="left">Hi, There 👋</h2>
+# 👩🏻‍💻 Ana Borba
 
-###
+**`Estudante de Tecnologia`**
 
-<p align="left">Meu nome é Ana!</p>
+Me chamo Ana Clara Borba, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou cursando Sistemas de Informação na Universidade Veiga de Almeida (UVA).
+Tenho interesse em desenvolvimento de software, análise de sistemas e automação de processos. Ao longo da minha formação, venho desenvolvendo projetos acadêmicos e pessoais utilizando tecnologias como React, JavaScript, TypeScript, Python, SQLite e Power Platform.
+Busco constantemente aprimorar meus conhecimentos através da criação de aplicações web e desktop, aplicando conceitos de desenvolvimento de software, banco de dados, modelagem de sistemas e boas práticas de programação.
 
-###
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=1tsmeana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsmeana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<p align="left">Estudante de Sistemas de Informação na Universidade Veiga de Almeida (UVA), com experiência em desenvolvimento de aplicações web e desktop. Tenho conhecimento em React, JavaScript, TypeScript, Python, SQLite e modelagem de sistemas, além de atuar com automação de processos utilizando Power Apps e Power Automate. Busco constantemente aprimorar minhas habilidades através de projetos acadêmicos e pessoais, aplicando conceitos de desenvolvimento de software, banco de dados e análise de sistemas.</p>
 
-###
-
-<div align="left">
-<a href="https://www.linkedin.com/in/ana-borba-aa2493248/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo" />
-</a>
-  <a href="mailto:borba2358@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo" />
-  </a>
-</div>
-
+</p>
