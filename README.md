@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação, atualmente cursando o 4º período na Universidade Veiga de Almeida. Estou em constante aprendizado, com foco no desenvolvimento full-stack. Gosto de explorar novas ferramentas, linguagens e soluções que me desafiem e ampliem meu conhecimento na programação.</p>
+<p align="left">Estudante de Sistemas de Informação na Universidade Veiga de Almeida (UVA), com experiência em desenvolvimento de aplicações web e desktop. Tenho conhecimento em React, JavaScript, TypeScript, Python, SQLite e modelagem de sistemas, além de atuar com automação de processos utilizando Power Apps e Power Automate. Busco constantemente aprimorar minhas habilidades através de projetos acadêmicos e pessoais, aplicando conceitos de desenvolvimento de software, banco de dados e análise de sistemas.</p>
 
 ###
 
