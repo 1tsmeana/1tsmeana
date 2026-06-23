@@ -5,7 +5,17 @@
 <p align="left">Meu nome é Ana!</p>
 
 ###
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <p align="left">Estudante de Sistemas de Informação na Universidade Veiga de Almeida (UVA), com experiência em desenvolvimento de aplicações web e desktop. Tenho conhecimento em React, JavaScript, TypeScript, Python, SQLite e modelagem de sistemas, além de atuar com automação de processos utilizando Power Apps e Power Automate. Busco constantemente aprimorar minhas habilidades através de projetos acadêmicos e pessoais, aplicando conceitos de desenvolvimento de software, banco de dados e análise de sistemas.</p>
 
 ###
